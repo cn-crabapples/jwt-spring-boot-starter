@@ -1,0 +1,16 @@
+crabapples:
+  alipay:
+    url: ''
+    appId: 2021000118600432
+    appPrivateKey: ''
+    format: ''
+    charset: ''
+    aliPayPublicKay: ''
+    signType: ''
+    aesKey: tw+qQbWh9WcArtn39MeVIQ==
+    noticeUrl: ''
+    appPublicCertPath: 'd:/cert/appCertPublicKey_2021000118600432.crt'
+    alipayCertPath: 'd:/cert/alipayCertPublicKey_RSA2.crt'
+    alipayRootCertPath: 'd:/cert/alipayRootCert.crt'
+server:
+  port: 8899
